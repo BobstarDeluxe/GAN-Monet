@@ -19,11 +19,3 @@ This project uses a Generative Adversarial Network (GAN) to create new paintings
 - **Method**: Generate new paintings from noise (not style transfer)
 
 The model learns Monet's artistic patterns and creates entirely new paintings rather than converting existing photos.
-
-## Usage
-
-[Add installation and usage instructions]
-
-## Results
-
-[Add generated images and evaluation metrics]
